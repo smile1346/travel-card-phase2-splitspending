@@ -1,8 +1,0 @@
-{
-    "type": "https://emoney.youtap.com/problems/bad-request",
-    "title": "Transaction error",
-    "detail": "already_reversed",
-    "status": 400,
-    "instance": "",
-    "errorKey": "transaction_failure"
-}

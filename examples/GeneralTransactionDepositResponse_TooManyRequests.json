@@ -1,8 +1,0 @@
-{
-    "type": "https://emoney.youtap.com/problems/too-many-requests",
-    "title": "Duplicated request",
-    "detail": "Duplicated request, https://gateway.test.youtap-azuredev.net/external-partners/v1/general-transaction is not allowed",
-    "status": 429,
-    "instance": "",
-    "errorKey": "too_many_requests"
-}

@@ -1,8 +1,0 @@
-{
-    "type": "https://emoney.youtap.com/problems/too-many-requests",
-    "title": "Duplicated request",
-    "detail": "Duplicated request, https://gateway.test.youtap-azuredev.net/emoney/v3/billpayment is not allowed",
-    "status": 429,
-    "instance": "",
-    "errorKey": "too_many_requests"
-}
